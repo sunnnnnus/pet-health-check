@@ -1,2 +1,24 @@
-# pet-health-check
-Early-stage web system for basic pet health symptom checking.
+# Pet Health Check System（開發中）
+
+一個針對寵物飼主設計的 Web 系統，透過常見症狀輸入與行為觀察，提供簡單易懂的初步健康建議。
+
+## 🔍 專案目標
+幫助飼主在無法即時就醫時，根據寵物姿態、排便狀況、精神反應等症狀進行初步判斷，增加就醫意識與資訊正確性。
+
+## 🛠️ 技術規劃
+- Frontend: HTML/CSS + JavaScript（預計使用 Vue）
+- Backend: Node.js + Express（RESTful API）
+- Database: MySQL
+- 架構模式：MVC
+
+## ✅ 預期功能
+- [ ] 使用者輸入症狀表單
+- [ ] 系統回傳初判建議與緊急程度
+- [ ] 症狀紀錄保存功能
+- [ ] 管理員端：新增／編輯症狀與對應建議
+
+## 📌 專案進度
+目前進行：功能規劃與資料庫設計階段  
+預計完成 MVP 時間：2025 年 8 月
+
+> 🔒 本專案仍在初期開發階段，若有面試需求，歡迎聯繫我，謝謝。
